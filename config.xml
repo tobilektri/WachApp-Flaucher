@@ -3,14 +3,14 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "de.itmeindl.wawaappFeldkirchen"
-        version   = "1.1.0"
-        versionCode="6">
+        id        = "de.itmeindl.wawaappFlaucher"
+        version   = "1.0.0"
+        versionCode="1">
 
-    <name>WachApp Feldkirchen</name>
+    <name>WachApp Flaucher</name>
 
     <description>
-        Eine App für die Wachplan App der Wasserwacht Feldkirchen von Tobias Meindl.
+        Eine App für die Wachplan App der Wasserwacht Flaucher von Tobias Meindl.
         Nur für interne Mitglieder. Passwort benötigt. Anfragen bei info@wachplan.info.
     </description>
 
